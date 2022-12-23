@@ -1,5 +1,10 @@
 fn main() {
-     
+    
+    /* ------------------------------------------------------
+                FIRST PROGRAM
+                    This course covers the basics for printing output
+                    and referencing variables in output strings 
+    ----------------------------------------------------------*/
     // This is the first program in the course
     // This is the second line of comment
 
